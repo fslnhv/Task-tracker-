@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Fishing",
+      "day": "Feb 5th at 2.30",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Gardening",
+      "day": "March 12th at 5.50",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Driving",
+      "day": "March 13th at 7.50",
+      "reminder": false
+    },
+    {
+      "text": "Cooking",
+      "day": "Dec 25th at 8.30",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
